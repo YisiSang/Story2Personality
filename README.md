@@ -11,9 +11,6 @@ python -m spacy download en
 ```
 
 ## Step 1: Data Parsing ## 
-Before 
-
-
 Our data parser first reads the narrative books and movie scripts from HTML files, and then extracts utterances said by recognized characters. The whole process can take 3~5 hours to finish. If you are **only interested in the data**, you can download them via [this link](https://1drv.ms/u/s!ArPzysVAJSvtquRqYKCnbUlg-Vst5A?e=fIKIVO) and unzip to the root folder.
 ``` bash
 # move the downloaded "dialog_scene_mention_dicts.zip" to the root folder
@@ -30,7 +27,7 @@ We are also sharing some other preprocessed files in the **preprocessed/** folde
 python parse.py
 ```
 
-Hereto, you will get three `.pickle` files which contain dictionaries of "what people say" and "who was mentioned" in a dialogue or a scene.
+Hereto, you will get three `.pickle` files which contain dictionaries of "what people say" and "who are mentioned" in a dialogue or a scene.
 
 
 ## Step 2: Model Training and Inferencing ##
