@@ -31,7 +31,7 @@ Hereto, you will get three `.pickle` files which contain dictionaries of "what p
 
 
 ## Step 2: Model Training and Inferencing ##
-The training and testing scripts will be provided in the future.
+To use the data for modeling, please go to [dataset/](dataset/) and download one of the tokenized datasets. The format is more readily for training and testing than those `.pickle` files. More details will be provided in the future.
 
 
 
