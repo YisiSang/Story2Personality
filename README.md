@@ -1,6 +1,6 @@
 # Story2Personality #
 
-The dataset is a new narrative understanding benchmark to predict personality according to the character’s narrative texts in the script. We release the dataset and the codes for our work accepted to NAACL Student Research Workshop 2022: *[Machine Narrative Comprehension in Fictional Characters Personality Prediction Task](https://arxiv.org/)* and EMNLP 2022 *[MBTI Personality Prediction for Fictional Characters Using Movie Scripts](https://arxiv.org/)*.
+The dataset is a narrative understanding benchmark to predict personality according to the character’s narrative texts in the script. We release the dataset and the codes for our work accepted to NAACL Student Research Workshop 2022: *[Machine Narrative Comprehension in Fictional Characters Personality Prediction Task](https://arxiv.org/)* and EMNLP 2022 *[MBTI Personality Prediction for Fictional Characters Using Movie Scripts](https://arxiv.org/)*.
 
 
 ## Step 0: Env Setup ##
